@@ -44,7 +44,8 @@ src/
 ├── utils/             # Helper functions 
 └── App.jsx
 
-🛠️ Installation
+## 🛠️ Installation
+
 git clone https://github.com/moyoussef11/doctor-appoinment-client.git
 cd doctor-appoinment-client
 npm install
